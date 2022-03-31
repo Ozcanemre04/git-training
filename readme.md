@@ -6,6 +6,7 @@
 <img src="img/profilee.jpg">
 
 my favorite video games :
+
 |name|genre  |
 |----|-------|
 |paladins|fps|
